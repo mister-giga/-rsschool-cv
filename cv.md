@@ -17,7 +17,7 @@ Coding, learning, gaming.
 
 ## Education
 
-`2013 - 2071`
+`2013 - 2017`
 __Georgian-American University, Tbilisi.__
 
 - Construction Engineering
