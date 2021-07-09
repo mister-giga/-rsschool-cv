@@ -1,6 +1,13 @@
 # Giga Bokuchava
 Software engineer.
 
+## Contact 
+Email: `giga.bokuchava@gmail.com`
+
+Phone: `+995 557 22 39 59`
+
+Telegram: https://t.me/mister_giga
+
 ## Currently
 
 Working remotely
